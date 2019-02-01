@@ -18,47 +18,47 @@
 \C#\FLV  to WMV
 \C#\Multiple Conversions At Once
 \C#\Set Audio Track
-\C#\SWF parameters to PNG
-\C#\SWF to lossless AVI
+\C#\SWF Parameters to PNG
+\C#\SWF to Lossless AVI
 \C#\SWF to PNG
-\C#\SWF to PNG (all frames)
+\C#\SWF to PNG (All Frames)
 \C#\SWF to PNG Large Size
-\C#\SWF to PNG with transparency
-\C#\SWF to uncompressed AVI
+\C#\SWF to PNG with Transparency
+\C#\SWF to Uncompressed AVI
 \C#\SWF To Video
 \C#\SWF To WebM
 \C#\SWF to WMV
-\C#\SWF to WMV with live preview
-\C#\SWF with data to AVI
-\C#\SWF with data to PNG
-\C#\SWF with data to WEBM
-\C#\SWF with data to WMV
+\C#\SWF to WMV with Live Preview
+\C#\SWF with Data to AVI
+\C#\SWF with Data to PNG
+\C#\SWF with Data to WEBM
+\C#\SWF with Data to WMV
 \C#\Video Length Setting
-\C#\SWF to WMV with live preview\PreviewContext
+\C#\SWF to WMV with Live Preview\PreviewContext
 \C++\SWF To Video
 \C++\SWF To WEBM
-\VB.NET\32bit RGBA AVI
+\VB.NET\32-bit RGBA AVI
 \VB.NET\Conversion Progress
 \VB.NET\Conversion Progress GUI
 \VB.NET\FLV  to AVI
 \VB.NET\FLV  to WMV
 \VB.NET\Multiple Conversions At Once
 \VB.NET\Set Audio Track
-\VB.NET\SWF parameters to PNG
-\VB.NET\SWF to lossless AVI
+\VB.NET\SWF Parameters to PNG
+\VB.NET\SWF to Lossless AVI
 \VB.NET\SWF to PNG
-\VB.NET\SWF to PNG (all frames)
+\VB.NET\SWF to PNG (All Frames)
 \VB.NET\SWF to PNG Large Size
-\VB.NET\SWF to PNG with transparency
-\VB.NET\SWF to uncompressed AVI
+\VB.NET\SWF to PNG with Transparency
+\VB.NET\SWF to Uncompressed AVI
 \VB.NET\SWF To Video
 \VB.NET\SWF To WEBM
 \VB.NET\SWF to WMV
-\VB.NET\SWF to WMV with live preview
-\VB.NET\SWF with data to AVI
-\VB.NET\SWF with data to PNG
-\VB.NET\SWF with data to WEBM
-\VB.NET\SWF with data to WMV
+\VB.NET\SWF to WMV with Live Preview
+\VB.NET\SWF with Data to AVI
+\VB.NET\SWF with Data to PNG
+\VB.NET\SWF with Data to WEBM
+\VB.NET\SWF with Data to WMV
 \VB.NET\Video Length Setting
 \VB6\SWF to PNG
 \VB6\SWF To Video
@@ -66,8 +66,8 @@
 \VBScript\FLV to AVI
 \VBScript\FLV to WMV
 \VBScript\From URL
-\VBScript\SWF To large PNG (6000x6000)
+\VBScript\SWF To Large PNG (6000x6000)
 \VBScript\SWF to PNG
 \VBScript\SWF To WEBM
 \VBScript\SWF To WMV
-\VBScript\SWF with dynamic scene to PNG frames
+\VBScript\SWF with Dynamic Scene to PNG Frames
